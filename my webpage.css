@@ -4,7 +4,7 @@ margin-right:auto;
 }
 body {
   display: inline;
-  padding: 5px;
+ 
   align="center";
 }
 body {
@@ -14,7 +14,7 @@ p.clear{
   clear:both;
   font-size: 18px;
    word-spacing: 5px;
-     padding: 5px;
+ 
    word-spacing: 5px;
 }
 table, th, td {
@@ -35,10 +35,9 @@ caption{
 }
 div {
     border: px solid #DAF7A6;
-    padding: 5px;
+   
   display:inline;
   margin-left: auto;
-padding: 5px;
   display:inline;
 
 }
@@ -46,7 +45,6 @@ padding: 5px;
 .img1 {
     float: right;
     margin-right:0px;
-    padding-bottom: 5px;
 }
 
 .clearfix {
@@ -56,8 +54,7 @@ padding: 5px;
 
 .img2 {
     float: left;
-    margin-left: 5px;
-    padding-bottom: 5px;
+    margin-left: auto;
 }
 
 h1 ,h2 ,h3 ,h4 ,h5{
@@ -69,17 +66,12 @@ p {
     font-size:19px;
     text-align:auto ;
     word-spacing: 5px;
-      padding: 15px;
-      margin:15px;
-    word-spacing: 10px;
 }
 
 .myImage {
   float: center;
   height: 335px;
   width: 335px;
-margin-left: 8.5px;
-margin-right:15px;
 
   align="center";
 
